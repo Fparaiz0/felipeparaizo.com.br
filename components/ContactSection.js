@@ -61,8 +61,8 @@ const ContactSection = () => {
         </svg>
       ),
       label: "Email",
-      value: "fparaizo3@gmail.com",
-      link: "mailto:fparaizo3@gmail.com",
+      value: "fparaizoo@gmail.com",
+      link: "mailto:fparaizoo@gmail.com",
     },
     {
       icon: (
